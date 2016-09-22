@@ -1,0 +1,97 @@
+{
+	"data":{
+		"hot_sale":[
+			{
+				"imgUrl":"images/home/homelistimg01.jpg",
+				"id":1,
+				"name":"连帽皮衣电商A088-P603-P90 100%PU韩版修身男士连帽皮衣外套大码",
+				"price":"90.00"
+			},
+			{
+				"imgUrl":"images/home/homelistimg02.jpg",
+				"id":2,
+				"name":"条纹夹克秋冬新款拼接加厚短款日系男士休闲宽松茄克衫DJ561P88",
+				"price":"88.00"
+			},
+			{
+				"imgUrl":"images/home/homelistimg03.jpg",
+				"id":3,
+				"name":"秋冬装韩版修身男士时尚日系夹克衫青年休闲外套男装潮 Y12P65",
+				"price":"65.00"
+			},
+				{"imgUrl":"images/home/homelistimg04.jpg",
+				"id":4,
+				"name":"冬季加厚棉衣男中长款连帽外套情侣棉服羽绒服A260-1-CK02-P75",
+				"price":"75.00"
+			},
+				{"imgUrl":"images/home/homelistimg05.jpg",
+				"id":5,
+				"name":"2016新款冬季羊羔毛立领棉衣大码棉服男装 钱塘4031-MY681-P125",
+				"price":"125.00"
+			},
+				{"imgUrl":"images/home/homelistimg06.jpg",
+				"id":6,
+				"name":"爆款K155 P45 新款四季出货英伦商务休闲裤男西装裤弹力男士修身",
+				"price":"45.00"
+			},
+				{"imgUrl":"images/home/homelistimg07.jpg",
+				"id":7,
+				"name":"简约百搭~文艺气质款 纯色圆领毛衣 领口装饰针织衫Y589-P65",
+				"price":"65.00"
+			},
+				{"imgUrl":"images/home/homelistimg08.jpg",
+				"id":8,
+				"name":"已质检 日系绣花小脚哈伦长裤  民族风 电商A057-K13-p50 棉100%",
+				"price":"50"
+			},
+				{"imgUrl":"images/home/homelistimg09.jpg",
+				"id":9,
+				"name":"英伦风大码毛呢大衣风衣男A089-MF633-P100 样毛20 聚酯纤维80%",
+				"price":"100.00"
+			},
+				{"imgUrl":"images/home/homelistimg10.jpg",
+				"id":10,
+				"name":"新款男士弹力纯色小哈伦休闲裤男休闲裤运动裤咖啡馆 K2211-50",
+				"price":"50.00"
+			}
+		]
+	},
+	
+	"channels":[
+            {
+                "editable":false,
+                "id":107,
+                "name":"精选"
+            },
+            {
+                "editable":true,
+                "id":9,
+                "name":"送男票",
+                "url":null
+            },
+            {
+                "editable":true,
+                "id":129,
+                "name":"海淘",
+                "url":null
+            },
+            {
+                "editable":true,
+                "id":110,
+                "name":"穿搭",
+                "url":null
+            },
+            {
+                "editable":true,
+                "id":118,
+                "name":"美食",
+                "url":null
+            },
+            {
+                "editable":true,
+                "id":113,
+                "name":"美护",
+                "url":null
+            }
+	]
+}	
