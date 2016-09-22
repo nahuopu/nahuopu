@@ -56,7 +56,7 @@ function($stateProvider,$urlRouterProvider,$ionicConfigProvider,globalProvider){
 	$ionicConfigProvider.platform.android.backButton.previousTitleText('');
 	
 	//路径
-	globalProvider.globalPath = '/html5/github/nahuopu
+	globalProvider.globalPath = '/html5/github/nahuopu'
 	
 }])
 
